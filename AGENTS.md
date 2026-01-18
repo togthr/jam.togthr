@@ -4,7 +4,9 @@
 Build an agent-ready, low-latency collaboration platform for real-time music jams.
 
 ## Commands (placeholders)
-- `scripts/verify.sh` — project checks (T001)
+- `npm ci` — install JS tooling
+- `npm run verify` — formatting + markdown lint
+- `./scripts/verify.sh` — project checks (T001)
 - `scripts/dev.sh` — local dev (T002)
 - `scripts/test.sh` — tests (T003)
 
