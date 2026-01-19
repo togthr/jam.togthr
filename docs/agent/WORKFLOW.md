@@ -9,6 +9,7 @@
 ## Definition of Done
 
 - `./scripts/verify.sh` is green (or documented as not applicable).
+- `npm run fmt` has been applied before committing changes.
 - Requirements are implemented and reviewed.
 - Documentation is updated when behavior or usage changes.
 

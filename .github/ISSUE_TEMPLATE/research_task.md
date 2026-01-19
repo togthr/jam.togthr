@@ -7,12 +7,14 @@ labels: research
 # Research goal
 
 ## Questions to answer
-- 
+
+-
 
 ## Scope
 
 ## Deliverables
-- 
+
+-
 
 ## Findings
 

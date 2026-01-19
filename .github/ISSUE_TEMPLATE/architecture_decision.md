@@ -15,6 +15,7 @@ labels: architecture
 ## Alternatives considered
 
 ## Risks
+
 - Real-time/audio thread impact:
 - Networking/protocol impact:
 - Security/privacy impact:

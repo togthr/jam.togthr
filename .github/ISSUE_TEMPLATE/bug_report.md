@@ -7,6 +7,7 @@ labels: bug
 # Bug summary
 
 ## Reproduction steps
+
 1.
 2.
 3.
@@ -18,6 +19,7 @@ labels: bug
 ## Impact
 
 ## Environment
+
 - OS:
 - Browser/runtime:
 - Version/commit:
