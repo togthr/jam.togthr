@@ -10,6 +10,6 @@ This repository is in **bootstrap-only** mode. Tooling, services, and production
 
 ## Documentation
 
-- Project docs: [`docs/README.md`](docs/README.md)
+- Documentation guide: [`docs/README.md`](docs/README.md)
 - Agent status: [`docs/agent/STATUS.md`](docs/agent/STATUS.md)
 - Contributing guide: [`CONTRIBUTING.md`](CONTRIBUTING.md)
