@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "fmt": "npx prettier --write .",
-    "fmt:check": "npx prettier --check .",
+    "fmt": "ls -la node_modules/.bin | grep prettieprettier --write .",
+    "fmt:check": "prettier --check .",
     "lint:md": "npx markdownlint-cli2 '**/*.md'",
     "verify": "npm run fmt:check && npm run lint:md"
   },
