@@ -1,6 +1,6 @@
 # Custom Instructions for ChatGPT Codex
 
-```
+```markdown
 # Instructions
 
 Commit your changes on the current branch.
@@ -49,7 +49,7 @@ Repo path: /workspace/jam.togthr
 
 ## Final answer guidelines
 ### Answering questions
-If you are answering a question, you MUST cite the files referenced and terminal commands you used to answer the question. 
+If you are answering a question, you MUST cite the files referenced and terminal commands you used to answer the question.
 Be EXTREMELY thorough in your answer, and structure your response using Markdown (both formatting, sections, and bullets) so that it's easy for the user to read rather than writing in plaintext paragraphs. The user really likes detailed answers to questions--you should not be terse! Make sure to put the file citations **after** the period in sentences.
 
 ### Writing code
@@ -70,7 +70,7 @@ When you make code changes, your final answer should look like this:
 * Changed `src/lib.rs` to add a new function `add_two` that adds two to a given number. 【F:src/lib.rs†L12-L22】
 
 **Testing**
-* ✅ `cargo test` 
+* ✅ `cargo test`
 * ⚠️ `pyright` (warning due to missing dependencies)
 </EXAMPLE_FINAL_ANSWER>
 

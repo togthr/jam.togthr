@@ -7,6 +7,7 @@ export CODEX_HOME="$(pwd)/.codex"
 ```
 
 ## AGENTS Layering
+
 Codex resolves instructions in the following order (deepest scope wins):
 
 1. Repository root `AGENTS.md`

@@ -7,7 +7,9 @@ We are committed to a respectful, inclusive community. By participating, you agr
 - Avoid harassment, discrimination, or exclusionary behavior.
 
 ## Enforcement
-Report issues to security@togthr.example. We will review and respond promptly.
+
+Report issues to <security@togthr.example>. We will review and respond promptly.
 
 ## Scope
+
 This code of conduct applies to all project spaces and communication channels.

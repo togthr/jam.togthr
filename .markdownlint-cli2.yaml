@@ -1,7 +1,7 @@
 globs:
-  - "**/*.md"
+  - '**/*.md'
 ignores:
-  - "node_modules/**"
+  - 'node_modules/**'
 config:
   default: true
   MD013: false
