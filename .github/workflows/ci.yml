@@ -21,6 +21,6 @@ jobs:
           node-version: 'lts/*'
           cache: npm
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --include=dev
       - name: Verify
         run: npm run verify
