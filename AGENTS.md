@@ -17,6 +17,7 @@ Build an agent-ready, low-latency collaboration platform for real-time music jam
 - Never commit secrets or credentials.
 - Do not access real-time audio or control-plane systems from this repo.
 - Real-time or audio-thread code must avoid blocking calls, heap allocations, and logging in the hot path.
+- Use ExecPlans for tasks expected to take more than 30 minutes or touch many files.
 
 ## Docs
 
